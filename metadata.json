@@ -1,0 +1,14 @@
+{
+  "name": "puppet-kubernetes",
+  "version": "0.1.0",
+  "author": "d4devops",
+  "summary": "To deploy kubernetes",
+  "license": "Apache 2.0",
+  "source": "https://github.com/d4devops/puppet-kubernetes.git",
+  "project_page": "https://github.com/d4devops/puppet-kubernetes",
+  "issues_url": "https://github.com/d4devops/puppet-kubernetes/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
